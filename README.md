@@ -3,7 +3,7 @@ Analysis of different ways of correctly guessing an integer between 1 and 100.
 
 Search space method:
 
-'''python
+```python
 import numpy as np
 import seaborn as sns
 import matplotlib as mpl
@@ -125,4 +125,4 @@ plt.title('Distribution of number of attempts to guess the correct number (searc
 plt.show()
 
 # typically takes about 5 guesses to win w/ search space method
-'''
+```
