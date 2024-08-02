@@ -3,7 +3,7 @@ Analysis of different ways of correctly guessing an integer between 1 and 100.
 
 Search space method:
 
-'''
+'''python
 import numpy as np
 import seaborn as sns
 import matplotlib as mpl
