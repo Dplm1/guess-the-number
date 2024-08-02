@@ -126,3 +126,5 @@ plt.show()
 
 # typically takes about 5 guesses to win w/ search space method
 ```
+![searchspacemethod_August12024](https://github.com/user-attachments/assets/16c3dbfd-05fd-47f9-b382-8ee6f8eff10e)
+
